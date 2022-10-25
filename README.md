@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, my name is Nguyen Duong Trung Hieu</h1>
 <h3 align="center">I'm currently undergraduating as a Software Engineering student at UIT(VNUHCM)</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hieundt&label=Profile%20views&color=0e75b6&style=flat" alt="hieundt" /> </p>
 
 - 🌱 I like to explore new technologies **Dart/Flutter, Kotlin, JavaScript, TypeScript, NodeJs, C#, .NET, etc**

@@ -15,7 +15,7 @@
 - 💬 Feel free to reach out to me for some interesting discussion about **Technology stuff, Game, Movie, Anime, Photograhy**
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="https://github.com/hieundt/hieundt/blob/main/eatsleepcoderepeat.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
 <h3 align="left">Connect with me:</h3>

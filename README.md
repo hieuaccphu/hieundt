@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, my name is Nguyen Duong Trung Hieu</h1>
 <h3 align="center">I'm currently undergraduating as a Software Engineering student at UIT(VNUHCM)</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://github.com/hieundt/hieundt/blob/main/coding%20cat%20gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hieundt&label=Profile%20views&color=0e75b6&style=flat" alt="hieundt" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 📫 You can shoot me an email at **mobil.hieunguyenduong@gmail.com**
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 

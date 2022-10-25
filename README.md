@@ -8,7 +8,7 @@
 
 - 🌱 I like to explore new technologies **Dart/Flutter, Kotlin, JavaScript, TypeScript, NodeJs, C#, .NET, etc**
 
-- 📝 Inbox me <a href="https://www.facebook.com/hieunguyenduongtrung"> my Facebook</a>. I'll give you a reply as soon as posible
+- 📝 Inbox me at <a href="https://www.facebook.com/hieunguyenduongtrung"> my Facebook</a>. I'll give you a reply as soon as posible
 
 - 📫 Or you can shoot me an email at <a href="mailto:mobil.hieunguyenduong@gmail.com">mobil.hieunguyenduong@gmail.com</a>
 
